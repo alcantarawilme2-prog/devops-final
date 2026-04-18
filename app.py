@@ -46,7 +46,7 @@ def hello():
 </head>
 <body>
     <div class="card">
-        <div class="emoji">🚀</div>
+        <div class="emoji">⚙️</div>
         <h1>Hola Mundo!</h1>
         <p>Aplicacion desplegada con el pipeline CI/CD completo</p>
         <div class="badges">
@@ -55,7 +55,7 @@ def hello():
             <span class="badge">GitHub Actions</span>
             <span class="badge">Render</span>
         </div>
-        <div class="footer">DevOps Final — Alcantara Wilme</div>
+        <div class="footer">DevOps Final — Anthony Medina</div>
     </div>
 </body>
 </html>
